@@ -1,0 +1,120 @@
+.hs-content .active-sec {
+    background: #3ccc85 !important;
+}
+/* .hs-inner h2:after {
+    background: #3ccc85;
+} */
+a.hs-totop-link {
+    background: #3ccc85;
+}
+.hs-inner .before-title {
+    color: #3ccc85;
+}
+.hs-menu nav .active-sec .fa,
+.hs-menu nav .active-sec .fas {
+    background: #3ccc85;
+}
+.hs-headline .download {
+    background: #3ccc85;
+}
+.aside1 a {
+    color: #3ccc85;
+}
+.aside1 a:hover {
+    background: #3ccc85;
+}
+.aside1 .aside-content .part1 {
+    color: #3ccc85;
+}
+#header .news-scroll span {
+    color: #3ccc85;
+}
+.tabs-left > .nav-tabs > li > a {
+    background: #3ccc85;
+}
+.tabs-left > .nav-tabs > li > a:hover,
+.tabs-left > .nav-tabs > li > a:focus {
+    background: #3ccc85;
+}
+.about-section .tab-pane h4 {
+    color: #3ccc85;
+}
+.resume-section .resume > li > .resume-tag {
+    background: #3ccc85;
+}
+.resume-section .resume h4 {
+    color: #3ccc85;
+}
+.bar-main-container {
+    background: #3ccc85;
+}
+.publication-section .date {
+    background: #3ccc85;
+}
+.publication-section .media h4 {
+    color: #3ccc85;
+}
+.publication-detail .ext_link {
+    background: #3ccc85;
+}
+.publication-detail .ext_link:hover {
+    color: #3ccc85;
+}
+.team-card-container h3 {
+    color: #3ccc85;
+}
+.team-card-container .back .social-icons a {
+    background: #3ccc85;
+}
+.research-section .slide-header h4,
+.research-section .slide-content h4 {
+    color: #3ccc85;
+}
+.research-section .slider-details {
+    background: #3ccc85;
+}
+.teaching-section .teaching > li > .teaching-tag {
+    background: #3ccc85;
+}
+.teaching-section .teaching h4 {
+    color: #3ccc85;
+}
+.work_desc .ext_link {
+    background: #3ccc85;
+}
+.work_desc .ext_link:hover {
+    color: #3ccc85;
+}
+.contact-section #contact_form .submit_btn:hover {
+    color: #3ccc85;
+    border: 1px solid #3ccc85;
+}
+.contact-section .contact_info h3 {
+    color: #3ccc85;
+}
+.pace .pace-progress {
+    background: #3ccc85;
+}
+@-webkit-keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0.1em #3ccc85;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0.1em #3ccc85;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+#my-link {
+    background: #3ccc85;
+}
+
+.publication-section .media .media-body a {
+    color: #3ccc85 !important;
+}
