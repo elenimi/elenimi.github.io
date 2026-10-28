@@ -178,7 +178,13 @@ jQuery(document).ready(function ($) {
         // respective section's position
         $links.on('click', function (event) {
           var href = $(this).attr('href');
-          var section = href.search(/section/) !== -1 ? href.substring(8) : 0;
+
+          // Let external links open normally (including target="_blank").
+          if (!href || href.indexOf('#section') !== 0) {
+            return true;
+          }
+
+          var section = href.substring(8);
           _saveState(section);
 
           return false;
