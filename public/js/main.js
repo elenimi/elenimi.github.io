@@ -2,16 +2,12 @@ jQuery(document).ready(function ($) {
   'use strict';
 
   // once doc is ready, insert the email.
-  $('#email-addr').attr('href', 'mailto:eleni@choosito.com');
-  $('#contact-email-addr')
-    .attr('href', 'mailto:eleni@choosito.com')
-    .text('eleni@choosito.com');
   $('#contact-alt-email-addr')
     .attr('href', 'mailto:elenimi@gmail.com')
     .text('elenimi@gmail.com');
   $('#contact-alt-2-email-addr')
-    .attr('href', 'mailto:elenimi@seas.upenn.edu')
-    .text('elenimi@seas.upenn.edu');
+    .attr('href', 'mailto:elenimi@engineering.upenn.edu')
+    .text('elenimi@engineering.upenn.edu');
   $('#contact-alt-3-email-addr')
     .attr('href', 'mailto:elenimi@gse.upenn.edu')
     .text('elenimi@gse.upenn.edu');
